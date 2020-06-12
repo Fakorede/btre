@@ -147,3 +147,6 @@ dmypy.json
 
 coverage/
 commands.txt
+settings.py
+static/
+media/
