@@ -91,6 +91,5 @@ venv.bak/
 
 coverage/
 commands.txt
-settings.py
 static/
 schemas.md
